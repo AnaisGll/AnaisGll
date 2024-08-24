@@ -4,8 +4,9 @@ Je suis titulaire d'un Master en Neurosciences 🎓 et Data Scientist 📊. Mon 
 
 ## 🎓 Formation
 
-- **Master en Neurosciences** - Aix-Marseille Université, 2023
-- **Formation Data Scientist** - OpenClassrooms, 2024
+- **Diplôme de Data Scientist (Niveau 7 - RNCP)** - OpenClassrooms (*2024*)
+- **Master en Neurosciences** - Neuroschool, Faculté des Sciences d'Aix-Marseille Université (*2023*)
+- **Licence Sciences de la Vie** - Faculté des Sciences d'Aix-Marseille Université (*2021*)
 
 ## 🔧 Compétences
 
