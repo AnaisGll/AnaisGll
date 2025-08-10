@@ -1,64 +1,103 @@
-# 👋 Bonjour, je suis Anaïs !
+# 👋 Hello, I'm Anaïs!
 
-Je suis titulaire d'un Master en Neurosciences 🎓 et Data Scientist 📊. Mon expertise combine les sciences cognitives avec l'analyse de données, ce qui me permet d'extraire des insights précieux à partir de données complexes. Je suis toujours à la recherche de nouvelles opportunités pour appliquer mes compétences dans des projets innovants.
+I have a Master's degree in Neuroscience 🎓 and am a Data Scientist 📊. My expertise combines cognitive science with data analysis, allowing me to extract valuable insights from complex data. I am always looking for new opportunities to apply my skills to innovative projects.
 
-## 🎓 Formation
+## 🎓 Education
 
-- **Diplôme de Data Scientist (Niveau 7 - RNCP)** - OpenClassrooms (*2024*)
-- **Master en Neurosciences** - Neuroschool, Faculté des Sciences d'Aix-Marseille Université (*2023*)
-- **Licence Sciences de la Vie** - Faculté des Sciences d'Aix-Marseille Université (*2021*)
+- **Data Scientist Diploma (Level 7 - RNCP)** - OpenClassrooms (*2024*)
+- **Master’s Degree in Neuroscience** - Neuroschool, Faculty of Sciences, Aix-Marseille University (*2023*)
+- **Bachelor’s Degree in Biology** - Faculty of Sciences, Aix-Marseille University (*2021*)
 
-## 🔧 Compétences
+## 🔧 Skills
 
-- **Neurosciences** : De la molécule aux fonctions cognitives, en passant par les neurones, les réseaux neuronaux, leur développement et les grandes fonctions intégrées.
+- **Neuroscience** : Comprehensive understanding of neuroscience, from molecules to cognitive functions, including neurons, neural networks, their development, and major integrated brain functions.
 
 - **Data Science** :  
-  - **Langages** : Python, SQL
-  - **Environnements de Développement** : Anaconda, Jupyter, Visual Studio, PyCharm, EEGLab
-  - **Outils et Frameworks** :
-    - **Manipulation et Transformation de Données** : Pandas, NumPy
-    - **Visualisation des Données** : Matplotlib, Seaborn, Plotly
+  - **Programming Languages:** Python, SQL, HTML
+  - **Development Environments:** Anaconda, Jupyter, Visual Studio, PyCharm, Skywise, EEGLa
+  - **Tools & Frameworks** :
+    - **Data Manipulation & Transformation:** : Pandas, NumPy
+    - **Data Visualization** : Matplotlib, Seaborn, Plotly
     - **Machine Learning** : Scikit-learn, TensorFlow, Keras, PyTorch, XGBoost, LightGBM
-    - **Deep Learning et Réseaux de Neurones** : Convolutional Neural Networks (CNN)
-  - **Cloud Computing et Déploiement** :
+    - **Deep Learning & Neural Networks** : Convolutional Neural Networks (CNN)
+  - **Cloud Computing & Deployment** :
     - **Cloud Platforms** : Azure, AWS (S3, ERP)
-    - **Déploiement d'Applications et de Modèles** : Kubernetes, Streamlit, Flask, GitHub Actions
-    - **Gestion et Orchestration de Projets** : MLflow (suivi des expérimentations et des modèles)
-  - **Versioning et Collaboration** : Git, GitHub, Google Colab, JupyterHub
+    - **Application & Model Deployment** : Kubernetes, Streamlit, Flask, GitHub Actions
+    - **Project Management & Orchestration** : MLflow (experiment and model tracking)
+  - **Version Control & Collaboration** : Git, GitHub, Google Colab, JupyterHub
 
-## 💼 Projets
+## 👩‍🔬 Experience
 
-### 1. **Classification Automatique de Biens de Consommation**
-   - **Description** : Développement d'un modèle de machine learning pour classer automatiquement des produits de consommation en différentes catégories, basé sur leur description et leur image.
-   - **Compétences Utilisées** : Pandas, NumPy, Scikit-learn, Bag of Words, Word Embedding, PCA, TSNE, KMeans, VGG16, Pillow
-   - **Défis Relevés** : Prétraitement de données textuelles, étude de la faisabilité d'un moteur de classification à partir de l'image et de la description, optimisation des hyperparamètres.
-   - **Lien vers le Projet** : [Voir sur GitHub](https://github.com/AnaisGll/OC-P6-Classifier-automatiquement-des-biens-de-consommation)
+### Data Analyst - Export Control Team
+*Airbus Helicopters, Marignane - October 2024 to Present (Subcontractor Randstad Digital)*
+- Analyzing data related to export control compliance and regulations
+- Supporting teams in ensuring compliance of data within their tools and systems
+- Creating and maintaining dashboards and reports to support decision-making 
 
-### 2. **Implémentation d'un Modèle de Scoring**
-   - **Description** : Conception et mise en place d'un modèle de scoring pour évaluer le risque associé à l'octroi de crédits à des clients. Ce projet comprend la sélection des variables, la modélisation, la mise en production du modèle de scoring à l'aide d'une API et la réalisation d'une interface de test de cette API.
-   - **Compétences Utilisées** : Analyse Exploratoire, Scikit-learn, XGBoost, LightGBM, SMOTE, MLFlow, Flask, Azure, Streamlit, DataDrift
-   - **Défis Relevés** : Traitement de données déséquilibrées, choix des métriques d'évaluation adaptées (AUC, ROC), optimisation des hyperparamètres avec GridSearchCV, comparaison des modèles, déploiement d'une API et création d'un dashboard.
-   - **Lien vers le Projet** : [Voir sur GitHub](https://github.com/AnaisGll/OC-P7-Implementer_un_modele_de_scoring)
+### Internship - Cognitive and Sensory Rehabilitation Team (Caroline Chambon & Myriam Cayre)
+*Cognitive Neuroscience Laboratory, Marseille – January 2023 to September 2023*  
+**Research Subject** : *Effect of age on brain activity and cognitive engagement during a working memory task*
+- Collection, processing, analysis, and interpretation of EEG, pupillometric, and behavioral data
+- Conducting neuropsychological tests and administering subjects
+- In-depth bibliographic research
 
-### 3. **Réalisation d'un Dashboard et Veille Technique**
-   - **Description** : Création d'un tableau de bord interactif pour visualiser les indicateurs clés de performance d'une entreprise. En parallèle, mise en place d'une veille technique pour suivre les tendances et innovations en data science.
-   - **Compétences Utilisées** : Streamlit, technique récente de Data Science (Contrastive Language-Image Pre-Training - CLIP), élaboration d'une note méthodologique, comparaison avec d'autres méthodes
-   - **Défis Relevés** : Synthèse d'informations complexes, design d'interface utilisateur, comparaison entre plusieurs méthodes.
-   - **Lien vers le Projet** : [Voir sur GitHub](https://github.com/AnaisGll/OC-P8-Realisez-un-dashboard-et-assurer-une-veille-technique)
 
-### 4. **Traitement de Données dans un Environnement Big Data sur le Cloud**
-   - **Description** : Mise en œuvre d'un traitement de données volumineuses sur une plateforme cloud. Ce projet comprend l'utilisation d'outils big data pour ingérer, traiter et analyser des datasets massifs.
-   - **Compétences Utilisées** : Apache Spark, Hadoop, AWS (S3, EMR, EC2), PySpark, MobileNetV2, PCA, SparkUI
-   - **Défis Relevés** : Mise en place d'une architecture Big Data, optimisation des performances, orchestration des tâches sur le cloud.
-   - **Lien vers le Projet** : [Voir sur GitHub](https://github.com/AnaisGll/OC-P9-Realisez-un-traitement-dans-un-environnement-big-data-sur-le-cloud)
+### Internship - Langage Team (Isabelle Dautriche)
+*Cognitive Psychology Laboratory, Marseille – June 2022*  
+**Research Subject** : *Investigating compositionality in the absence of language: the case of negation*
+- [View Poster](https://drive.google.com/file/d/1FMpTJuRK7wqR1PqjkKuOmTZBNtACIrsP/view?usp=drive_link)
 
-### 5. **Réaliser le Cadrage d'un Projet IA**
-   - **Description** : Construction et exécution de la vision produit de l'entreprise pour la création d'une application mobile.
-   - **Compétences Utilisées** : Élaboration d'un backlog, dimensionnement de l'équipe, évaluation des coûts et des gains, gestion des enjeux légaux et éthiques, identification des risques et proposition de stratégies pour les cadrer.
-   - **Lien vers le Projet** : [Voir sur GitHub](https://github.com/AnaisGll/OC-P10-Realisez-le-cadrage-dun-projet-IA)
 
-## 📫 Contactez-moi
+### Internship - Neural Plasticity and Neurodegeneration Team (Eric Di Pasquale)
+*Institute of Neurophysiopathology, Marseille – May 2022*  
+**Research Subject** : *Amyloid plaques – cause or consequence of Alzheimer’s disease?*
+- Conducted neuropsychological testing and functional neuroimaging
+- Measured spatial working memory
+- Applied histochemistry techniques, cryostat usage, Western Blot
+- [View Presentation](https://drive.google.com/file/d/1oVlgCF840UykN-x9ivL7eyLWkFKMxpTt/view?usp=drive_link)
 
-- **Email** : [guilleanais13@gmail.com](mailto:guilleanais13@gmail.com)
-- **LinkedIn** : [linkedin.com/AnaisGll](https://www.linkedin.com/in/ana%C3%AFs-guille-29a433220/)
+
+## 📊 Projects
+
+1. **Alzheimer's Disease Prediction**
+   - **Description** : Development of a model for predicting Alzheimer's disease
+   - **Skills Used** : Pandas, Seaborn, MLflow, ImBLearn, XGBoost, LightGBM
+   - **Challenges** : Data set processing, production of visualizations for univariate and bivariate analyses, use of mlflow, optimization and comparison of multiple models.
+   - **Link** [GitHub Repository](https://github.com/AnaisGll/Alzheimer-s-Disease-Prediction)
+
+2. **Automatic Classification of Consumer Goods**
+   - **Description** : Development of a machine learning model to automatically classify consumer products into categories based on their description and image.
+   - **Skills Used** : Pandas, NumPy, Scikit-learn, Word Embedding, PCA, t-SNE, KMeans, VGG16
+   - **Challenges** : Text data preprocessing, hybrid classification model (image + description), hyperparameter optimization.
+   - **Link** : [GitHub Repository](https://github.com/AnaisGll/OC-P6-Classifier-automatiquement-des-biens-de-consommation)
+
+3. **Implementation of a Scoring Model**
+   - **Description** : Design and deployment of a scoring model to assess credit risk, with production of an API and creation of a test interface.
+   - **Skills Used** : Scikit-learn, XGBoost, LightGBM, SMOTE, Flask, Azure, Streamlit
+   - **Challenges** : Processing unbalanced data, choosing metrics (AUC, ROC), optimizing hyperparameters, deploying an API.
+   - **Link** : [GitHub Repository](https://github.com/AnaisGll/OC-P7-Implementer_un_modele_de_scoring)
+4. **Creation of a Dashboard and Technical Monitoring**
+   - **Description** : Creation of an interactive dashboard to visualize a company's key performance indicators, accompanied by technical monitoring in data science.
+   - **Skills Used** : Streamlit, CLIP, Development of a methodological note
+   - **Challenges** : Synthesis of complex information, user interface design, comparison of methods.
+   - **Link** : [GitHub Repository](https://github.com/AnaisGll/OC-P8-Realisez-un-dashboard-et-assurer-une-veille-technique)
+
+5. **Big Data Processing in a Cloud Environment**
+   - **Description** : Processing large amounts of data on a cloud platform using big data tools to ingest, process, and analyze massive datasets.
+   - **Skills Used** : Apache Spark, Hadoop, AWS (S3, EMR, EC2), PySpark, MobileNetV2
+   - **Challenges** : Implementation of a Big Data architecture, performance optimization, task orchestration on the cloud.
+   - **Link** : [GitHub Repository](https://github.com/AnaisGll/OC-P9-Realisez-un-traitement-dans-un-environnement-big-data-sur-le-cloud)
+
+6. **AI Project Management**
+   - **Description** : Building and executing the product vision for a mobile app, including project management, team sizing, and risk assessment.
+   - **Skill Used** : Development of a backlog, cost assessment, management of legal and ethical issues
+   - **Link** : [GitHub Repository](https://github.com/AnaisGll/OC-P10-Realisez-le-cadrage-dun-projet-IA)
+
+---
+
+## 📫 Contact
+
+- **E-mail** : [guilleanais13@gmail.com](mailto:guilleanais13@gmail.com)
+- **LinkedIn** : [Anaïs Guille](https://www.linkedin.com/in/ana%C3%AFs-guille-29a433220/)
+- **GitHub** : [AnaisGll](https://github.com/AnaisGll)
 
